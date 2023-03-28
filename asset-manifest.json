@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maya-shingote/ReactJs.Amazon-clone.git/static/css/main.07e960e0.css",
+    "main.js": "/maya-shingote/ReactJs.Amazon-clone.git/static/js/main.318af853.js",
+    "index.html": "/maya-shingote/ReactJs.Amazon-clone.git/index.html",
+    "main.07e960e0.css.map": "/maya-shingote/ReactJs.Amazon-clone.git/static/css/main.07e960e0.css.map",
+    "main.318af853.js.map": "/maya-shingote/ReactJs.Amazon-clone.git/static/js/main.318af853.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07e960e0.css",
+    "static/js/main.318af853.js"
+  ]
+}
